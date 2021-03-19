@@ -21,7 +21,6 @@ class Rover {
            results[i] = {completed: true};
          }
        }
-
        else if(results[i].commandType == 'STATUS_CHECK'){
          results[i] = {completed: true, roverStatus: {mode: this.mode, generatorWatts : this.generatorWatts, position: this.position}}
        }
