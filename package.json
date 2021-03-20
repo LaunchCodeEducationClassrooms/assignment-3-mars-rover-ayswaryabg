@@ -8,8 +8,7 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {},
-  "devDependencies": {
-    "jasmine": "^3.7.0"
+  "dependencies": {
+    "jasmine": "^3.6.3"
   }
 }
