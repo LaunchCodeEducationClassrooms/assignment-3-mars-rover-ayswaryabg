@@ -18,4 +18,3 @@ jasmine.loadConfig({
 });
 
 jasmine.execute();
-
