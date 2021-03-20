@@ -13,6 +13,7 @@ jasmine.loadConfig({
   ],
   "helpers": [
     "helpers/*.js"
+  ],
   random: false
 });
 
